@@ -1,3 +1,5 @@
+**IMPORTANT : run this in development on port 8080, beacuse redirect URI is set at "http://localhost:8080"**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
